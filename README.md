@@ -1,5 +1,5 @@
 ### Hi there 👋
-* I am currently the lead maintainer of cfn-guard
+* I am currently the lead maintainer of [cfn-guard](https://github.com/aws-cloudformation/cloudformation-guard)
 * Feel free to connect on [LinkedIn](https://ca.linkedin.com/in/josh-fried)
 <!--
 **joshfried-aws/joshfried-aws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
